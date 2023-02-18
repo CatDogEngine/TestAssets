@@ -12,5 +12,6 @@
 	* Test basic/standard/advance PBR rendering.
 	
 ## Sources
+Note that all 3D assets in this repo are all free downloaded form websites:
 * [mixamo](https://www.mixamo.com/)
 * [Sketchfab](https://sketchfab.com/)
