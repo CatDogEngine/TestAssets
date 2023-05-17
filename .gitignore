@@ -1,0 +1,14 @@
+*.bin
+*.cdbin
+*.dae
+*.obj
+*.fbx
+*.gltf
+*.bmp
+*.dds
+*.png
+*.jpg
+*.tga
+*.tif
+*.tiff
+*.txt
