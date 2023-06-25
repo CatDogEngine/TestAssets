@@ -10,7 +10,8 @@
 		* glTF should be same with Blender.
 * PBR
 	* Test basic/standard/advance PBR rendering.
-	
+* DDGI
+	* Test model and raw probe data
 ## Sources
 Note that all 3D assets in this repo are all free downloaded form websites:
 * [mixamo](https://www.mixamo.com/)
