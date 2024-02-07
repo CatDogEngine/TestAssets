@@ -12,7 +12,7 @@ there is its tutorial.
 
 # Attention
 
-You need to have a .cdbin file to import engine i will push it soon, there still have something to fix in Engine import.............emmmmmmmm...........may be?? (but we had time off now :) 2024/1/22), You can produce .cdbin in
+You need to have a .cdbin file to import engine, not a .efkefc file
 
 if you need other thing you can connect me~ (OVOAOVO)
 
